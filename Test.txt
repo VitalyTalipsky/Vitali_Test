@@ -1,7 +1,2 @@
-For me
-<<<<<<< HEAD
-_________________________
-=======
-and others
-and more
->>>>>>> refs/remotes/origin/main
+New
+Text
